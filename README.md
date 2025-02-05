@@ -3,7 +3,7 @@ Examples of multithreadings in C#
 
 Using:
 - C#
-- Thread
+- System.Threading
 - .Net Framework
 - Console
 
