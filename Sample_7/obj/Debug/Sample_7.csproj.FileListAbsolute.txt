@@ -1,0 +1,7 @@
+D:\Системное программирование\MVS проекты - примеры\Sample_7 - simple multithreading\Sample_7\bin\Debug\Sample_7.exe.config
+D:\Системное программирование\MVS проекты - примеры\Sample_7 - simple multithreading\Sample_7\bin\Debug\Sample_7.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_7 - simple multithreading\Sample_7\bin\Debug\Sample_7.pdb
+D:\Системное программирование\MVS проекты - примеры\Sample_7 - simple multithreading\Sample_7\obj\Debug\Sample_7.csproj.AssemblyReference.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_7 - simple multithreading\Sample_7\obj\Debug\Sample_7.csproj.CoreCompileInputs.cache
+D:\Системное программирование\MVS проекты - примеры\Sample_7 - simple multithreading\Sample_7\obj\Debug\Sample_7.exe
+D:\Системное программирование\MVS проекты - примеры\Sample_7 - simple multithreading\Sample_7\obj\Debug\Sample_7.pdb
