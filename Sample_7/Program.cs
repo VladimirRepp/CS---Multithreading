@@ -48,7 +48,7 @@ namespace Sample_7
         { 
             for(int i = 0; i < 5; i++)
             {
-                Console.WriteLine($"Вывод второго потока №{i}");
+                Console.WriteLine($"Вывод порожденного потока №{i}");
                 Thread.Sleep(400);
             }
         }
